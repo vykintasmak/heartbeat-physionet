@@ -10,6 +10,6 @@ normal_folder='',  abnormal_folder=''
 
 Example usage:
 python hb_prediction_v2.py -o train
-python hb_prediction_v2.py -o test -f filename
+python hb_prediction_v2.py -o test -i filename
 
 
